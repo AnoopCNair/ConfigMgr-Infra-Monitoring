@@ -1,6 +1,8 @@
 # ConfigMgr-Infra-Monitoring
 # Let's check ConfigMgr Infra monitoring script by Karthikeyan A 
 # More details available https://www.anoopcnair.com/sccm-server-infrastructure-monitoring-without/
+#Conditions apply - Disclaimer - Text this script LAB. No Warranty
+# Latest Script MECM_Servers_Health_Check_Reports.ps1
 #************************************************************************************************************************
 $ErrorActionPreference = "SilentlyContinue"
 Set-ExecutionPolicy remotesigned -Force $ErrorActionPreference
